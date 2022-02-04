@@ -1,0 +1,7 @@
+{
+  "name": "appInOut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
